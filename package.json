@@ -21,7 +21,7 @@
     "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0-canary.30",
+    "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-fetch": "^3.0.0",
     "@11ty/eleventy-img": "^2.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
@@ -41,7 +41,7 @@
     "glob": "^8.0.3",
     "html-minifier-terser": "^7.1.0",
     "lodash": "^4.17.21",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.6.5",
     "markdown-it-emoji": "^2.0.2",
